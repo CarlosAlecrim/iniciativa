@@ -1,0 +1,51 @@
+
+ 2013  mkdir NetProjetos
+ 2014  cd NetProjetos
+ 2015  mkdir iniciativa
+ 2016  cd iniciativa
+ 2017  clear
+ 2018  dotnet new list
+ 2019  clear
+ 2020  dotnet new --list
+ 2021  dotnet new webapi
+ 2022  ls
+ 2023  code .
+ 2024  dotnet run
+ 2025  dotnet dev-certs https --trust
+ 2026  dotnet run
+ 2028  dotnet tool install --global dotnet-ef --version 5.0.1
+ 2031  dotnet ef migrations add PrimeiraMigracao
+ 2032  dotnet tool install --global dotnet-ef --version 6.0.4
+ 2033  dotnet tool uninstall --global dotnet-ef --version 6.0.4
+ 2034  dotnet tool uninstall  dotnet-ef --version 6.0.4
+ 2035  dotnet tool uninstall  dotnet-ef 
+ 2036  dotnet tool uninstall --global dotnet-ef 
+ 2037  dotnet tool install --global dotnet-ef --version 6.0.4
+ 2038  dotnet ef migrations add PrimeiraMigracao
+ 2039  dotnet ef database update -v
+ 2040  dotnet ef migrations add PrimeiraMigracao
+ 2041  dotnet ef database update -v
+ 2042  dotnet ef migrations add PrimeiraMigracao
+ 2043  dotnet ef database update -v
+ 2044  dotnet ef migrations add PrimeiraMigracao
+ 2045  dotnet run
+ 2046  clear
+ 2047  ls
+ 2048  dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
+ 2049  dotnet tool install -g dotnet-aspnet-codegenerator
+ 2050  dotnet aspnet-codegenerator controller -name EventoController -async -api Evento -dc ApplicationContext -outDir Controllers
+ 2051* dotnet aspnet-codegenerator controller -name EventoController -async -api Evento -dc ApplicationContext -outDir Controllers
+ 2052  dotnet aspnet-codegenerator --help
+ 2053  dotnet aspnet-codegenerator controller -name EventoController -async -api Evento -dc ApplicationContext -outDir Controllers
+ 2054  dotnet aspnet-codegenerator controller -name EventoController -async -api -m Evento -dc ApplicationContext -outDir Controllers
+ 2055  dotnet add package Microsoft.EntityFrameworkCore -v 6.0.0.0
+ 2056  dotnet aspnet-codegenerator controller -name EventoController -async -api -m Evento -dc ApplicationContext -outDir Controllers
+ 2057  dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design -v 6.0.0.0
+ 2058  dotnet aspnet-codegenerator controller -name EventoController -async -api -m Evento -dc ApplicationContext -outDir Controllers
+ 2059  dotnet add package -g Microsoft.VisualStudio.Web.CodeGeneration.Design --versionv 6.0.0
+ 2060  dotnet add package -g Microsoft.VisualStudio.Web.CodeGeneration.Design --version 6.0.0
+ 2061* dotnet add package  Microsoft.VisualStudio.Web.CodeGeneration.Design -v 6.0.0.0
+ 2062  dotnet aspnet-codegenerator controller -name EventoController -async -api -m Evento -dc ApplicationContext -outDir Controllers
+ 2063  dotnet restore
+ 2064  dotnet aspnet-codegenerator controller -name EventoController -async -api -m Evento -dc ApplicationContext -outDir Controllers
+ 2065  history >> projeto.txt
