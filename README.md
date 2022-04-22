@@ -1,0 +1,1 @@
+Um desafio de código referente ao emporaderamento feminino patrocinado pela DIO e Carrefour, onde o objetivo é criar uma API que disponibiliza dados relacionados a iniciativas onde as mulheres são protagonistas na tecnologia. 
